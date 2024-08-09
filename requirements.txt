@@ -1,11 +1,10 @@
 setuptools==72.1.0
 python3-distutils
 qdrant_client
-streamlit
-python-dotenv
-langchain
-PyPDF2
-streamlit
+streamlit==1.25.0
+python-dotenv==1.0.0
+langchain==0.0.251
+PyPDF2==3.0.1
 aiohttp==3.8.5
 aiosignal==1.3.1
 altair==5.0.1
@@ -33,7 +32,6 @@ Jinja2==3.1.2
 joblib==1.3.1
 jsonschema==4.18.6
 jsonschema-specifications==2023.7.1
-langchain==0.0.251
 langsmith==0.0.18
 lxml==4.9.3
 markdown-it-py==3.0.0
@@ -58,10 +56,8 @@ pydantic==1.10.12
 pydeck==0.8.0
 Pygments==2.15.1
 Pympler==1.0.1
-PyPDF2==3.0.1
 python-dateutil==2.8.2
 python-docx==0.8.11
-python-dotenv==1.0.0
 pytz==2023.3
 pytz-deprecation-shim==0.1.0.post0
 PyYAML==6.0.1
@@ -78,7 +74,6 @@ sentencepiece==0.1.99
 six==1.16.0
 smmap==5.0.0
 SQLAlchemy==2.0.19
-streamlit==1.25.0
 streamlit-chat==0.1.1
 sympy==1.12
 tenacity==8.2.2
