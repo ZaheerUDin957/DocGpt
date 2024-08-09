@@ -1,4 +1,6 @@
-﻿qdrant_client
+setuptools
+python3-distutils
+qdrant_client
 streamlit
 python-dotenv
 langchain
@@ -98,5 +100,3 @@ validators==0.20.0
 watchdog==3.0.0
 yarl==1.9.2
 zipp==3.16.2
-setuptools
-python3-distutils
