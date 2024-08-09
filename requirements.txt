@@ -1,5 +1,4 @@
-setuptools
-python3-distutils
+setuptools==72.1.0
 qdrant_client
 streamlit
 python-dotenv
